@@ -21,6 +21,24 @@ Admin panel
 
 Add/edit and delete blog post
 
+## Instruction on how to run Blog App
+
+To run this project you must install Python on your PC. Check whether the python is installed or not by typing “python ” in cmd. You are prior to encounter error if your path is incorrect. Make sure that your path is correct otherwise computer will display message (‘Python’ is not recognized as an internal or external command, operable program or batch file.) To fix the error you will have to modify a setting called PATH, which is a list of directories where Windows will look for programs.
+
+NoW run the project, open project folder and type cmd. After that, type in the command. 
+
+### pip install -r requirement.txt
+
+You have to upgrade pip version if error occurs ‘pip install –upgrade pip’
+
+Install pillow through command “pip install pillow”
+
+Upgrade packages if needed
+
+After successful execution of above steps, type next command
+
+### python manage.py runserver
+
 ## ss
 ![blog post ss1](https://user-images.githubusercontent.com/39465843/125161037-97edef00-e19d-11eb-8494-3065756bcb7c.png)
 ![blog post ss2](https://user-images.githubusercontent.com/39465843/125161039-99b7b280-e19d-11eb-9c2e-f918b9a6498c.png)
