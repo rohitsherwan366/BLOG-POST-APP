@@ -4,6 +4,15 @@ Blog App in Django project is a web app developed using Python HTML,CSS and DJAN
 
 The website has interactive and friendly UI design, it has interactive dashboard with many features. It has admin and user panel. Admin can manage all blog post HTML and CSS as front end and DJANGO framework is used as backend for developing this website.
 
+
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+
+
+
+
+
 ## Features of  using Simple Blog App Django
 
 Login/ Signup feature
